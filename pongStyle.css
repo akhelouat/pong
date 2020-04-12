@@ -21,6 +21,16 @@ body
     background-color: rgb(209, 209, 209);
     border: 3px black solid;
 }
+#game_over
+{
+    margin-top: 200px;
+    color: white;
+    background-color: rgb(255, 57, 57);
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 10px;
+    display: none;
+}
 #score
 {
     font-size: 1.5em;
